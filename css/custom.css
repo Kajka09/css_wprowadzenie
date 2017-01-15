@@ -1,0 +1,7 @@
+p:not(#miasto){
+  color: gray;
+
+}
+div#linki > a:not(.last) {
+ color: aquamarine;
+}
